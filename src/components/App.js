@@ -7,6 +7,7 @@ import Login from "./Login";
 function App() {
   return (
     <div>
+
       <h3>onClick</h3>
       <Tickler />
       <hr />
@@ -21,6 +22,7 @@ function App() {
       <h3>onSubmit</h3>
       <Login />
       <hr />
+      
     </div>
   );
 }
